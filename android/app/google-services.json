@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792850201769",
+    "project_id": "mystery-habit",
+    "storage_bucket": "mystery-habit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792850201769:android:cd7acb13409c34d0ab3db8",
+        "android_client_info": {
+          "package_name": "com.aquaterralife.mystery_habit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbavR-QrSR6L4gB7quFSB3Ameh7C_nWpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
